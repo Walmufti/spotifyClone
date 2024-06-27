@@ -16,7 +16,6 @@ const Navbar = () => {
         <div className='flex items-center gap-4'>
             <p className='bg-white text-black text-[15px] px-4 py-1 rounded-2xl hidden md:block cursor-pointer'>Explore Premium</p>
             <p className='bg-black py-1 px-3 rounded-2xl text-[15px] cursor-pointer'>Install App</p>        
-          <img className='rounded-full flex items-center justify-center w-7 h-7' src="/src/assets/spotify_logo.png" alt="spotify_logo" />
         </div>
     </div>
     <div className='flex items-center gap-2 mt-4'>
