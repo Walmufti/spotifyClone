@@ -1,5 +1,7 @@
 # React + Vite
 
+![spotifyClone](https://github.com/user-attachments/assets/57183453-1e05-4d0c-9a83-6ac2a019ae67)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
